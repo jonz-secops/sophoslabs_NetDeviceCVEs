@@ -17,3 +17,5 @@ This repository contains information on published CVEs for network edge devices,
 |Targets|	Publicly Available Information|
 
 Twenty-four vendors are represented in the data. This list is based on market share and general interest. Inclusion should not be interpreted as constituting any relation to the situations documented elsewhere in Pacific Rim coverage.
+
+A comma-separated value file with this data can be found [here](https://github.com/sophoslabs/NetDeviceCVEs/edit/main/README.md#:~:text=Network_Device_CVE_Data).
